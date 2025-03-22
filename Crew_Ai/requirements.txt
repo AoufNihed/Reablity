@@ -1,0 +1,6 @@
+crewai
+pandas
+numpy
+psycopg2
+streamlit
+matplotlib

@@ -1,0 +1,1209 @@
+Fiabilite Individuelle des Composants :
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+Transformateur
+   MTTF: 219000.00 heures
+   MTTR: 48.00 heures
+   Disponibilite: 0.99978 (99.98%)
+   Fiabilite apres 1 an: 0.96079
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Disjoncteur
+   MTTF: 131400.00 heures
+   MTTR: 4.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.93551
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Parafoudre
+   MTTF: 175200.00 heures
+   MTTR: 3.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.95123
+
+Conducteur
+   MTTF: 350400.00 heures
+   MTTR: 12.00 heures
+   Disponibilite: 0.99997 (100.00%)
+   Fiabilite apres 1 an: 0.97531
+
+Isolateur
+   MTTF: 262800.00 heures
+   MTTR: 6.00 heures
+   Disponibilite: 0.99998 (100.00%)
+   Fiabilite apres 1 an: 0.96722
+
+
+Fiabilite du Systeme apres 1 an :
+   Systeme en Serie : 0.00015
+   Systeme en Parallele : 1.00000
+
+Simulation de Panne : Transformateur
+    Nouvelle Fiabilite en Serie : 0.00000
+    Nouvelle Fiabilite en Parallele : 1.00000
