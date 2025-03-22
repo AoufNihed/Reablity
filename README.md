@@ -35,14 +35,4 @@ python --version
 git clone https://github.com/AoufNihed/Reablity.git
 cd Reablity
 ```
-📂 Reablity/
-│── 📜 classical_models/        # Classical reliability models (FTA, MTTR, Markov)
-│── 📜 ml_models/               # AI models for fault classification & predictions
-│── 📜 multi_agent/             # CrewAI-powered Multi-Agent System
-│── 📜 visualization/           # Data visualization scripts
-│── 📜 api/                     # FastAPI backend for deployment
-│── 📜 data/                    # Energy reliability datasets
-│── 📜 requirements.txt         # List of required dependencies
-│── 📜 main.py                  # Main execution script
-│── 📜 README.md                # Project documentation
-
+Reablity/ │── 📜 classical_models/ # Classical reliability models (FTA, MTTR, Markov) │── 📜 ml_models/ # AI models for fault classification & predictions │── 📜 multi_agent/ # CrewAI-powered Multi-Agent System │── 📜 visualization/ # Data visualization scripts │── 📜 api/ # FastAPI backend for deployment │── 📜 data/ # Energy reliability datasets │── 📜 requirements.txt # List of required dependencies │── 📜 main.py # Main execution script │── 📜 README.md # Project documentation
